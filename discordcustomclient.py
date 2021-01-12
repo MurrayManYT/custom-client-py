@@ -26,5 +26,4 @@ async def customclientmode(ctx):
         customclient = input("")
         await ctx.send(customclient)
     
-client.run("NzM5MTQwMzM5OTU2NDQ5MzMw.XyWIFQ.fs9S8afI0GPnJWnnodjnISi4Weo") #murray rant bot
-#client.run("Nzk4NTUzMTk3NjUyMzQ0ODcy.X_2sng.SsV05lY_m0brOnBX1NaHyG0KSV0")#cursed bot
+client.run("token here")
